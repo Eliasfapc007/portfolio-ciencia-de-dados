@@ -1,0 +1,13 @@
+# Corpus e caches: não versionar o CSV original do dataset
+data/
+.cache/
+
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Artefatos de modelos locais
+*.joblib
+*.pkl
