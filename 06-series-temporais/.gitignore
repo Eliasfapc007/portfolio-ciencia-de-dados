@@ -1,0 +1,8 @@
+# Arquivos de dados baixados localmente (não versionar dados brutos)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
