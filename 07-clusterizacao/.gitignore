@@ -1,0 +1,9 @@
+# Dataset oficial baixado pelo analysis.py (licença permite redistribuição com atribuição,
+# mas o projeto não inclui/embute cópias dos dados brutos).
+data/
+
+# Ambiente e caches Python locais
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
