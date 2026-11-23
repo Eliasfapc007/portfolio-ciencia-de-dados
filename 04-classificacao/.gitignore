@@ -1,0 +1,7 @@
+# Dados baixados da UCI (o script os obtém na execução)
+data/
+
+# Python e caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
