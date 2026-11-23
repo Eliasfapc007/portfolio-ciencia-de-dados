@@ -1,0 +1,11 @@
+# Dados obtidos do repositório UCI; o script os baixa quando necessário.
+/data/
+
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Download temporário em andamento
+*.part
