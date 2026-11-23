@@ -1,0 +1,9 @@
+# Downloaded source data is not part of the repository.
+data/
+
+# Python environments and generated artifacts.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
