@@ -1,0 +1,11 @@
+# Dados públicos baixados; não versionar os registros individuais
+data/
+
+# Python e caches locais
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite3
+*.db
+*.part
+.DS_Store
