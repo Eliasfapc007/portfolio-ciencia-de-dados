@@ -1,0 +1,9 @@
+# Dados de origem baixados em tempo de execução
+/data/
+
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
