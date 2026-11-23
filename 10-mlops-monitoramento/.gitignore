@@ -1,0 +1,9 @@
+# Dados obtidos pelo script: não versionar o dataset bruto.
+data/
+
+# Ambiente local e cache Python.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
