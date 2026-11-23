@@ -1,0 +1,10 @@
+# Arquivos brutos oficiais baixados pelo script (não versionar)
+data/
+
+# Python e ferramentas locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
