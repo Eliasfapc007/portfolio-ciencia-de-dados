@@ -1,0 +1,6 @@
+dimension,segment,sessions,buying_sessions,conversion_rate_pct
+visitor_type,New_Visitor,1694,422,24.9115
+visitor_type,Other,85,16,18.8235
+visitor_type,Returning_Visitor,10551,1470,13.9323
+day_group,weekday,9462,1409,14.8911
+day_group,weekend,2868,499,17.3989
